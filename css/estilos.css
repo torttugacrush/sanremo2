@@ -440,3 +440,17 @@ background: -webkit-linear-gradient(left, rgba(255,11,85,1) 0%, rgba(245,88,123,
 		border: 1px solid #6b0000; border-radius: 300px/10px; height: 0px; text-align: center;
 	
 }
+
+.contacto-color-izq{
+	background-color: #ff4949;
+}
+.contacto-color-dere{
+	background-color: #dedede;
+}
+
+.subtitulo-Contacto{
+	color: rgb(255, 251, 251);
+	font-size: 2em;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
